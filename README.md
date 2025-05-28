@@ -25,3 +25,6 @@ Ejecución
 ```code
 mvn spring-boot:run
 ```
+
+### Diagrama entidad relación
+![image](https://github.com/user-attachments/assets/91801eff-b5e2-4d80-8fae-1f7abb2562df)
