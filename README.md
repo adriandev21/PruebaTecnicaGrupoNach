@@ -10,7 +10,7 @@ Repositorio creado para documentar la prueba técnica realizada para grupo nach.
 ## Configuración
 ### Base de Datos
 Script de base de datos completo:
-Ver script completo: [script.sql](/src/main/resources/DBExamen.sql)
+Ver script completo: [script.sql](/pruebatecnica/src/main/resources/DBExamen.sql)
 
 ## Configurar application-local.properties:
 ```config
